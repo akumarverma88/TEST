@@ -1,0 +1,4 @@
+*.logs
+*.class
+**/logs/*.log
+*.props
